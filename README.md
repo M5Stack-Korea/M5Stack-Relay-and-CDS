@@ -25,4 +25,6 @@
 4. Core의 3.3V 핀 - LED(+), LED(-) - Relay 모듈 (NO), Relay 모듈(COM) - Core의 GND 핀  으로 연결합니다. 
 
 
-## 아두이노 IDE를 이용하여 소스코드를 M5Stack Core에 올린 후, 동작시키면, CDS 값이 낮으면, LED가 켜지고, CDS 값이 높으면, LED가 꺼지는 것을 확인할 수 있습니다. 
+## 동작 결과
+
+아두이노 IDE를 이용하여 소스를 M5Stack Core에 올린 후, 동작시키면, CDS 값이 낮으면, LED가 켜지고, CDS 값이 높으면, LED가 꺼지는 것을 확인할 수 있습니다. 
